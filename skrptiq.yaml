@@ -1,0 +1,42 @@
+# --- Identity ---
+id: "e7a2f034-f46b-440d-9043-d8ebfd7ada95"
+name: "templates-prompts"
+display_name: "Prompt Templates"
+description: "Prompt patterns — system prompts, few-shot, chain-of-thought, extraction, and more"
+version: "1.0.0"
+engine: ">=1.0.0"
+
+# --- Attribution ---
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+
+licence: "MIT"
+repository: "https://github.com/skrpts/templates-prompts"
+
+# --- Discovery (Hub) ---
+category: "templates"
+tags:
+  - "templates"
+  - "prompt"
+
+# --- Security & Access ---
+requires:
+  services:
+    - "llm-service"
+  permissions: []
+  data_handling: []
+
+# --- Manifest flags ---
+template: true
+
+# --- Contents ---
+contents:
+  skills: 0
+  prompts: 10
+  workflows: 1
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 11

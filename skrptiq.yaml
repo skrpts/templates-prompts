@@ -3,8 +3,8 @@ id: "e7a2f034-f46b-440d-9043-d8ebfd7ada95"
 name: "templates-prompts"
 display_name: "Prompt Templates"
 description: "Prompt patterns — system prompts, few-shot, chain-of-thought, extraction, and more"
-version: "1.0.1"
-engine: ">=1.0.0"
+version: "1.0.2"
+engine: ">=0.1.0"
 
 # --- Attribution ---
 author:
